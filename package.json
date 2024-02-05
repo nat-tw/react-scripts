@@ -1,5 +1,5 @@
 {
-  "name": "react-scripts",
+  "name": "jetstar-react-scripts",
   "version": "0.0.3",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
@@ -52,7 +52,6 @@
     "eslint-plugin-react-hooks": "^1.6.1",
     "file-loader": "4.3.0",
     "fs-extra": "^8.1.0",
-    "fsevents": "2.1.2",
     "html-webpack-plugin": "4.0.0-beta.11",
     "identity-obj-proxy": "3.0.0",
     "jest": "24.9.0",
