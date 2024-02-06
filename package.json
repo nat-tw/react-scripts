@@ -1,6 +1,6 @@
 {
   "name": "jetstar-react-scripts",
-  "version": "3.5.4",
+  "version": "3.5.3",
   "description": "Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
@@ -53,7 +53,7 @@
     "file-loader": "4.3.0",
     "fs-extra": "^8.1.0",
     "fsevents": "2.1.2",
-    "html-webpack-plugin": "4.5.2",
+    "html-webpack-plugin": "4.0.0-beta.11",
     "identity-obj-proxy": "3.0.0",
     "jest": "24.9.0",
     "jest-environment-jsdom-fourteen": "1.0.1",
@@ -68,9 +68,9 @@
     "postcss-preset-env": "6.7.0",
     "postcss-safe-parser": "4.0.1",
     "react-app-polyfill": "^1.0.6",
-    "react-dev-utils": "^10.2.1",
+    "react-dev-utils": "^11.0.0",
     "resolve": "1.15.0",
-    "resolve-url-loader": "3.1.2",
+    "resolve-url-loader": "3.1.5",
     "sass-loader": "8.0.2",
     "semver": "6.3.0",
     "style-loader": "0.23.1",
